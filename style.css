@@ -3,6 +3,11 @@ body {
     margin: 0 auto;
     background: red 
 }
+.container {
+    border: 10px;
+    border-color: black;
+    border-style: dashed;
+}
 img {
     height: 400px;
     width: auto;
